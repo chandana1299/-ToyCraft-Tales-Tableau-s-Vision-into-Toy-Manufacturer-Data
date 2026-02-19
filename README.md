@@ -56,13 +56,6 @@ ToyCraft-Tales/
 ✔ Time-based Trend Analysis
 ✔ KPI Indicators (Total Sales, Profit, Quantity)
 
-📸 Dashboard Preview
-
-(Add screenshots of your Tableau dashboard here)
-
-You can upload images in GitHub and link them like this:
-
-![Dashboard Screenshot](images/dashboard.png)
 
 📈 Key Insights
 
